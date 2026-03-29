@@ -18,7 +18,6 @@ I like:
 - ❤️ Begging for affection (low success rate)
 - 🥃 Tequila (moderate success rate)
 - 🖋️ Tattoos & piercings
-- 🍒 This cherry emoji that has been living in my brain since 2024
 
 I build serious systems while pretending I’m not taking myself too seriously.
 
@@ -193,9 +192,9 @@ Unfortunately, yes.
   (TECNM / CONAOM)
 
 ### Papers & Technical Writing (Accepted / To Appear)
-- *Dynamic Drone Mesh Network for Scalable Quantum Key Distribution in Challenging Environments*
+- *Dynamic Drone Mesh Network for Scalable Quantum Key Distribution in Challenging Environments:* [Hernandez Barreto, A. D., Velasco Campos, M. F., Morales Escobar, K. Y., & Diaz Dominguez, A. E. (2025). Dynamic drone mesh networks for scalable quantum key distribution in challenging environments. Y Ciencia Aplicada Tecnología, 8(2), 322–329. ISSN: 2992-8338. ](https://jcyta.cenidet.tecnm.mx/revistas/tycap/15-Vol_8_Num_2_Julio-Diciembre_2025.pdf)
 - *Design and Modeling of Integrated Circuits for Environmental Sensing, Biomedical and Microfluidic Applications*
-- *Simulation of Secure Mobile Robot Communications Using QKD*
+- *[Simulation of Secure Mobile Robot Communications Using QKD](https://jcyta.cenidet.tecnm.mx/revistas/memorias/Memorias_5to_CITCA_nov_2025.pdf)*
 
 Somehow this counts as research.
 
@@ -227,4 +226,4 @@ Mostly learned by doing things that *had* to work.
 
 ---
 
-> *None of this was planned.* 🍒
+> *None of this was planned.*
