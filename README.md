@@ -1,6 +1,5 @@
 # Alan Daleth Hernández Barreto
 > Computer Systems Engineer (in progress)  
-> Independent Researcher in Quantum & Neuromorphic Computing
 
 I accidentally ended up working on **quantum error correction, neuromorphic hardware, and compilers**.
 
